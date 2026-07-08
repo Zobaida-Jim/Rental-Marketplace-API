@@ -444,11 +444,7 @@ The database schema for RentNest is illustrated below.
 
 > Replace the image path with your uploaded ER diagram.
 
-```md
-<p align="center">
-    <img src="./ERD.png" alt="RentNest ER Diagram" width="1000"/>
-</p>
-```
+![ERD Diagram](./ERD.png)
 
 ---
 
