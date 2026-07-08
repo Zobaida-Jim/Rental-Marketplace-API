@@ -446,7 +446,7 @@ The database schema for RentNest is illustrated below.
 
 ```md
 <p align="center">
-    <img src="ERD.png" alt="RentNest ER Diagram" width="1000"/>
+    <img src="./ERD.png" alt="RentNest ER Diagram" width="1000"/>
 </p>
 ```
 
@@ -467,4 +467,4 @@ Import the collection into Postman and configure your environment variables befo
 
 Computer Science & Engineering Student
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- LinkedIn: https://www.linkedin.com/in/zobaida-jim/
