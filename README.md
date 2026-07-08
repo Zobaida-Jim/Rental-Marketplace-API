@@ -440,9 +440,8 @@ Rental Completed
 
 # 🗄️ Entity Relationship Diagram (ERD)
 
-The database schema for RentNest is illustrated below.
+The database schema for Rental Marketplace API is illustrated below.
 
-> Replace the image path with your uploaded ER diagram.
 
 ![ERD Diagram](./ERD.png)
 
