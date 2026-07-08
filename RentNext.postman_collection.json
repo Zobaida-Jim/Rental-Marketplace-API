@@ -17,7 +17,7 @@
             "header": [],
             "body": {
               "mode": "raw",
-              "raw": "{\n    \"email\": \"ten2@gmail.com\",\n    \"password\": \"12345\"\n}",
+              "raw": "{\n    \"email\": \"deleted@gmail.com\",\n    \"password\": \"12345\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -196,7 +196,7 @@
             "method": "GET",
             "header": [],
             "url": {
-              "raw": "http://localhost:8080/api/properties?minPrice=10000&isAvailable=false&amenities=[\"WiFi\"]",
+              "raw": "http://localhost:8080/api/properties?isAvailable=false&amenities=[\"WiFi\"]",
               "protocol": "http",
               "host": [
                 "localhost"
@@ -227,17 +227,15 @@
                 {
                   "key": "minPrice",
                   "value": "10000",
-                  "type": "text"
+                  "disabled": true
                 },
                 {
                   "key": "isAvailable",
-                  "value": "false",
-                  "type": "text"
+                  "value": "false"
                 },
                 {
                   "key": "amenities",
-                  "value": "[\"WiFi\"]",
-                  "type": "text"
+                  "value": "[\"WiFi\"]"
                 }
               ]
             }
@@ -655,7 +653,7 @@
             "header": [],
             "body": {
               "mode": "raw",
-              "raw": "{\n    \"email\": \"sakib_landlord@gmail.com\",\n    \"name\": \"Sakib_Landlord\",\n    \"password\": \"12345\",\n    \"role\": \"LANDLORD\"\n}",
+              "raw": "{\n    \"email\": \"deleted@gmail.com\",\n    \"name\": \"deleted\",\n    \"password\": \"12345\",\n    \"role\": \"TENANT\"\n}",
               "options": {
                 "raw": {
                   "language": "json"
