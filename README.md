@@ -19,6 +19,20 @@
 
 ---
 
+# 🚀 Deployment
+
+The project is deployed on **Vercel**.
+
+## 🚀 Live API
+
+### Base URL
+
+```text
+https://rent-nest-chi.vercel.app/
+```
+
+---
+
 # ✨ Features
 
 ### 🔐 Authentication & Authorization
@@ -95,18 +109,6 @@
 - Accessible by Landlords and Admin
 
 ---
-
-# 🚀 Deployment
-
-The project is deployed on **Vercel**.
-
-## 🚀 Live API
-
-### Base URL
-
-```text
-https://rent-nest-chi.vercel.app/
-```
 
 > **Note:** This project is tested using the provided Postman Collection.
 
